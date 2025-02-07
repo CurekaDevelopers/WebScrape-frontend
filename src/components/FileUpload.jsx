@@ -9,7 +9,7 @@ function FileUpload() {
   // const API_BASE_URL = "http://127.0.0.1:5000";
   // const API_BASE_URL = "http://192.168.0.28:5000";
   // const API_BASE_URL = "https://127.0.0.1:5000.railway.app";
-  const API_BASE_URL = "https://webscrape-production-e599.up.railway.app";
+  const API_BASE_URL = "https://webscrape-backend-production.up.railway.app";
 
   const handleFileChange = (event) => {
     const selectedFile = event.target.files[0];
